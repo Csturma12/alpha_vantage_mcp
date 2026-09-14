@@ -19,7 +19,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "highlight.js": "^11.11.1",
-    "hono": "^4.0.0",
+    "hono": "^4.13.5",
     "lucide-react": "^0.514.0",
     "marked": "^15.0.12",
     "next": "15.3.3",
