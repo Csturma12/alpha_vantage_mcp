@@ -9,7 +9,7 @@ dependencies = [
     "awslabs-mcp-lambda-handler>=0.1.8",
     "click",
     "loguru>=0.7.3",
-    "mcp>=1.12.3",
+    "mcp>=1.30.0",
     "python-dotenv>=1.1.1",
 ]
 
